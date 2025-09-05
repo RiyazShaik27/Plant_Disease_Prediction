@@ -36,58 +36,68 @@
 To get a local copy of the project up and running, follow these simple steps.
 
 ---
-
 ## Prerequisites
+
 Make sure you have Python installed on your system. This project uses a virtual environment to manage dependencies.
 
-Python 3.8+
+- **Python 3.8+**
+- `pip` (Python package installer)
 
-pip (Python package installer)
+---
 
-Installation
-Clone the repository:
+## Installation
 
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-cd your-repository-name
+1. **Clone the repository:**
 
-(Note: Replace your-username/your-repository-name with the actual repository URL)
+    ```
+    git clone https://github.com/your-username/your-repository-name.git
+    cd your-repository-name
+    ```
+    *(Note: Replace `your-username/your-repository-name` with the actual repository URL)*
 
-Create and activate a virtual environment:
+2. **Create and activate a virtual environment:**
 
-# For Windows
-python -m venv venv
-venv\Scripts\activate
+    ```
+    # For Windows
+    python -m venv venv
+    venv\Scripts\activate
 
-# For macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
+    # For macOS/Linux
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
 
-Install the required packages:
+3. **Install the required packages:**
 
-pip install -r requirement.txt
+    ```
+    pip install -r requirement.txt
+    ```
 
-Run the Streamlit application:
+4. **Run the Streamlit application:**
 
-streamlit run main.py
+    ```
+    streamlit run main.py
+    ```
 
 The application will automatically open in your default web browser.
+
 
 ---
 
 ## File Structure 📁
-**main.py**: The main Streamlit web application file. This is the entry point for the project.
+1. **main.py**: The main Streamlit web application file. This is the entry point for the project.
 
-**trained_plant_disease_model.keras**: The pre-trained deep learning model used for disease prediction.
+2. **trained_plant_disease_model.keras**: The pre-trained deep learning model used for disease prediction.
 
-**Train_plant_disease.ipynb**: A Jupyter Notebook containing the code and process for training the CNN model.
+3. **Train_plant_disease.ipynb**: A Jupyter Notebook containing the code and process for training the CNN model.
 
-**Test_plant_disease.ipynb**: A Jupyter Notebook for testing and evaluating the performance of the trained model.
+4. **Test_plant_disease.ipynb**: A Jupyter Notebook for testing and evaluating the performance of the trained model.
 
-**requirement.txt**: A list of all necessary Python libraries and their versions.
+5. **requirement.txt**: A list of all necessary Python libraries and their versions.
 
-**training_hist.json**: A JSON file containing the training history (loss and accuracy) of the model.
+6. **training_hist.json**: A JSON file containing the training history (loss and accuracy) of the model.
 
-**home_page.jpeg**: The image used on the home page of the Streamlit application.
+7. **home_page.jpeg**: The image used on the home page of the Streamlit application.
 
 ---
 
