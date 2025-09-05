@@ -50,10 +50,9 @@ Make sure you have Python installed on your system. This project uses a virtual 
 1. **Clone the repository:**
 
     ```
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/RiyazShaik27/Plant_Disease_Prediction.git
+    cd Plant_Disease_Prediction
     ```
-    *(Note: Replace `your-username/your-repository-name` with the actual repository URL)*
 
 2. **Create and activate a virtual environment:**
 
