@@ -123,36 +123,36 @@ This project was developed as a part of the Engineering Project in Community Ser
 | Balaga Bala Krishna   | 22BSA10248       |
 
 ## Individual Contributions
-B Lalith: 
 
-Addspecificcontributionshere,e.g.,"Responsiblefordatacollectionandpreprocessing."
-T.S.Hrushikesh: 
+- **B Lalith:**
+    *Responsible for data collection and preprocessing.*
 
-Addspecificcontributionshere,e.g.,"LedthedevelopmentoftheStreamlituserinterface."
-Adwaith Shyju M: 
+- **T.S.Hrushikesh:**
+   *Contributed to the web application logic and deployment.*
 
-Addspecificcontributionshere,e.g.,"WrotethecodefortheCNNmodelarchitecture."
-C Vijaya Krishna: 
+- **Adwaith Shyju M:**
+    *Managed project documentation and report writing.*
 
-Addspecificcontributionshere,e.g.,"Managedprojectdocumentationandreportwriting."
-Chollangi Chaitanya: 
+- **C Vijaya Krishna:**
+   *Wrote the code for the CNN model architecture.*
 
-Addspecificcontributionshere,e.g.,"Focusedonmodeltrainingandhyperparametertuning."
-Navya Pillai: 
+- **Chollangi Chaitanya:**
+     *Led the development of the Streamlit user interface.*
 
-Addspecificcontributionshere,e.g.,"Contributedtothewebapplicationlogicanddeployment."
-Shaik Riyaz: 
+- **Navya Pillai:**
+    *Managed project documentation and report writing.*
 
-Addspecificcontributionshere,e.g.,"Assistedwithdebuggingandperformanceoptimization."
-Jebaslin H: 
+- **Shaik Riyaz:**
+    *Assisted with debugging and performance optimization.*
 
-Addspecificcontributionshere,e.g.,"Wroteunittestsfortheapplicationfunctions."
-Teja M: 
+- **Jebaslin H:**
+    *Wrote unit tests for the application functions.*
 
-Addspecificcontributionshere,e.g.,"Supportedwithdatasetcurationandfeatureengineering."
-Balaga Bala Krishna: 
+- **Teja M:**
+    *Supported with dataset curation and feature engineering.*
 
-Addspecificcontributionshere,e.g.,"Preparedthefinalprojectpresentation."
+- **Balaga Bala Krishna:**
+    *Supported with dataset curation and feature engineering.*
 
 ---
 
