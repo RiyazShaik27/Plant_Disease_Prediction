@@ -109,18 +109,19 @@ The model was trained on a comprehensive dataset of plant images, with details o
 ## Team Contributions 👨‍💻
 This project was developed as a part of the Engineering Project in Community Service (EPICS) program. The following team members contributed to its successful completion:
 
-| Name                  | Registration No. |
-|-----------------------|------------------|
-| B Lalith              | 22BAI10060       |
-| T.S.Hrushikesh        | 22BAI10076       |
-| Adwaith Shyju M       | 22BAI10292       |
-| C Vijaya Krishna      | 22BAI110406      |
-| Chollangi Chaitanya   | 22BCE11453       |
-| Navya Pillai          | 22BCY10001       |
-| Shaik Riyaz           | 22BCY10140       |
-| Jebaslin H            | 22BOE10104       |
-| Teja M                | 22BOE10113       |
-| Balaga Bala Krishna   | 22BSA10248       |
+| Name                 | Registration No. | Branch                   |
+|----------------------|------------------|--------------------------|
+| B Lalith             | 22BAI10060       | CSE Artificial Intelligence |
+| T.S.Hrushikesh       | 22BAI10076       | CSE Artificial Intelligence |
+| Adwaith Shyju M      | 22BAI10292       | CSE Artificial Intelligence |
+| C Vijaya Krishna     | 22BAI110406      | CSE Artificial Intelligence |
+| Chollangi Chaitanya  | 22BCE11453       | CSE Core                 |
+| Navya Pillai         | 22BCY10001       | CSE Cyber Security       |
+| Shaik Riyaz          | 22BCY10140       | CSE Cyber Security       |
+| Jebaslin H           | 22BOE10104       | CSE Bio Engineering      |
+| Teja M               | 22BOE10113       | CSE Bio Engineering      |
+| Balaga Bala Krishna  | 22BSA10248       | CSE Cloud Computing      |
+
 
 ## Individual Contributions
 
